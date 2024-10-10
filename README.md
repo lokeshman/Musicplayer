@@ -2,8 +2,6 @@
 MusicPlayer App for ios
 
 # Output 
-![](https://github.com/user-attachments/assets/94d82766-a8bf-4c9f-b681-d9990623e7cf.png | width = 100
-(https://github.com/user-attachments/assets/7dc922e8-9dd1-4e20-9677-e86efe14e3f6 | width = 80)
 
-![](https://github.com/user-attachments/assets/94d82766-a8bf-4c9f-b681-d9990623e7cf.png =250x250)
-
+![Screenshot 2024-10-10 at 10 23 2](https://github.com/user-attachments/assets/5d7789c6-4814-481a-820f-a9940ea8996b)
+![Screenshot 2024-10-10 at 10 23 0](https://github.com/user-attachments/assets/c00e0130-06b3-44aa-9b31-8a3398d4a80f)
